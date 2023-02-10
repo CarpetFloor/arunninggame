@@ -1,0 +1,18 @@
+-control legs with arrow keys:
+    >order is left arrow, up arrow, right arrow, down arrow
+    >have to press keys in above order, and the faster keys pressed, the faster the player goes
+    >messing up the sequence by not pressing them in the correct order, or by pressing a different key makes the player stumble
+-control arms with a and d:
+    >similar to legs in having to get sequence correct
+-legs + arms:
+    >have to simulataneously match arm sequence with leg sequence, otherwise causes negative effect stated above in legs control
+-make keys rebindable
+-stumbling:
+    >when mistake made with pressing keys, the player will stumble(animation), which basically just slows the player down, 
+        but also resets the sequence
+    >if user tries to run again by pressing any keys in the legs or arms controls sequences, it will cause the player to stumble again
+    >when stumbling a certain number of times in a short enough time, the player will fall over and it will take a bit of time
+        to recover and get back up(done automatically)
+-note about scope:
+    >this game should be quit simple and small(in terms of content)
+    >make sure to keep scope small

@@ -1,0 +1,6 @@
+-Player artwor and animations
+-Background artwork (probably a track)
+-Main menu HTML and CSS
+-Customize menu HTML and CSS
+-Customize functionality
+-Menus navigation

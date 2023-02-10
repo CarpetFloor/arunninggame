@@ -1,0 +1,3 @@
+-Style is 8-bit pixel art
+-Player should be simple runner with a racing singlet, shorts, and shoes
+-Background should be a simple track
