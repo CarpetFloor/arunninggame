@@ -1,0 +1,48 @@
+PLAYER
+
+-Singles
+	>Red
+	>Orange
+	>Yellow
+	>Green
+	>Blue
+	>Purple
+	>Pink
+	>Black
+	>White
+-Shorts
+	>Red
+	>Orange
+	>Yellow
+	>Green
+	>Blue
+	>Purple
+	>Pink
+	>Black
+	>White
+-Shoes
+	>Red
+	>Orange
+	>Yellow
+	>Green
+	>Blue
+	>Purple
+	>Pink
+	>Black
+	>White
+-Hair Styles
+	>Buzz cut
+	>Short
+	>Medium
+	>Long
+	>Mullet
+	>Longer in the front
+-Hair Colors
+	>Black
+	>Brown
+	>Blond
+	>Grey
+
+BACKGROUND
+-Track
+-Some sort of parallax like trees

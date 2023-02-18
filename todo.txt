@@ -1,6 +1,13 @@
--Player artwor and animations
+-Player artwork and animations
 -Background artwork (probably a track)
 -Main menu HTML and CSS
 -Customize menu HTML and CSS
 -Customize functionality
 -Menus navigation
+-Player controls
+-Time trial
+-CPU players
+-Multiplayer
+-Check for Safar issues (primarily CSS)
+-Check for IE issues (primarily CSS)
+-Mobile support (keys neeeded to be pressed on computer version would be tappable buttons on mobile, although possibly add something more or change stuff because it would be easier not having to worry about tapping the wrong button[s]. Maybe could make it so tapping the screen and not a button causes same issue as pressing wrong key on a keyboard)

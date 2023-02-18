@@ -1,3 +1,37 @@
+/*
+Fonts
+*/
+@import
+    url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap')
+    ;
+
 body {
     font-size: 20px;
+    background-color: #4CAF50;
+    font-family: "Press Start 2P", "monospace";
+}
+
+#menu {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 550px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+}
+
+button {
+    font-size: 30px;
+    width: 300px;
+    padding: 10px;
+    font-family: "Press Start 2P", "monospace";
+    background-color: white;
+    border: 5px solid black;
+}
+
+button:hover {
+    color: white;
+    background-color: black;
 }

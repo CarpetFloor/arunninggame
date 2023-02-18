@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>arunningame</title>
-    <link rel="stylesheet" href="style.css">
+<title>arunningame</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="menu">
-        <button>Time Trial</button>
-        <button>Race Against the Computer</button>
-        <button>Race Against A Real Person</button>
-        <button>Customize</button>
-    </div>
-    <script src="script.js"></script>
+	<div id="menu">
+		<button onclick="goToTimeTrial">Time Trial</button>
+		<button onclick="goToRaceCPU">Race Against the Computer</button>
+		<button onclick="goToRaceOnline">Race Against A Real Person</button>
+		<button onclick="goToCustomize">Customize Runner</button>
+	</div>
+	
+	<script src="menuNavigation.js"></script>
+	<script src="script.js"></script>
 </body>
 </html>
