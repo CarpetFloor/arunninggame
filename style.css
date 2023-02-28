@@ -2,8 +2,7 @@
 Fonts
 */
 @import
-    url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap')
-    ;
+    url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 body {
     font-size: 20px;
@@ -23,7 +22,7 @@ body {
     left: 0;
     right: 0;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 #mainMenu {
     visibility: visible;
